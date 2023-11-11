@@ -1,0 +1,19 @@
+tensorflow[and-cuda]
+
+torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+torchlars
+
+numpy 
+
+scikit-learn
+
+opencv-python
+
+scikit-image
+
+matplotlib
+
+optuna 
+
+seaborn
